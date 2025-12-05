@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/linear.ico</file>
+    </qresource>
+</RCC>
